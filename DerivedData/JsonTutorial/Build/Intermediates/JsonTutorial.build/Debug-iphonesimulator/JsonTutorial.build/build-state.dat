@@ -1,0 +1,410 @@
+TJsonTutorial
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app/Info.plist JsonTutorial/JsonTutorial-Info.plist
+cProcessPCH /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/PrecompiledHeaders/JsonTutorial-Prefix-goxvzdzwtmvcvjedbeoplxfyyczt/JsonTutorial-Prefix.pch.pth JsonTutorial/JsonTutorial-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/Objects-normal/i386/ViewController.o /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/Objects-normal/i386/AppDelegate.o /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/Objects-normal/i386/Coupon.o /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/Coupon.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/Objects-normal/i386/customCell.o /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/customCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/Objects-normal/i386/main.o /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app/JsonTutorial normal i386
+cGenerateDSYMFile /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app.dSYM /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app/JsonTutorial
+cCpResource JsonTutorial/Default@2x.png DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app/Default@2x.png
+cCpResource JsonTutorial/Default.png DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app/Default.png
+cCopyStringsFile /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app/en.lproj/InfoPlist.strings JsonTutorial/en.lproj/InfoPlist.strings
+cCpResource JsonTutorial/Default-568h@2x.png DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app/Default-568h@2x.png
+cCompileXIB /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/customCell.xib
+cCompileStoryboard /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/en.lproj/MainStoryboard.storyboard
+cTouch /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
+c0000000051BC19FB0000000000000110
+t1371281915
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000512CF1050000000000228FE0
+t1361899781
+s2265056
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000512CF10700000000003DDFA0
+t1361899783
+s4054944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c00000000512CF10600000000000015F7
+t1361899782
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c00000000512CF10B0000000000000E8D
+t1361899787
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000512CF10D0000000000AB6230
+t1361899789
+s11231792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/usr/include/Availability.h
+c00000000512CF11C0000000000001B73
+t1361899804
+s7027
+
+N/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/Objects-normal/i386/AppDelegate.o
+t1374239881
+s86600
+
+N/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/Objects-normal/i386/Coupon.o
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/Objects-normal/i386/JsonTutorial.LinkFileList
+c0000000051EABD510000000000000447
+t1374338385
+s1095
+
+N/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/Objects-normal/i386/Status.o
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/Objects-normal/i386/ViewController.o
+t1374239881
+s95280
+
+N/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/Objects-normal/i386/customCell.o
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/Objects-normal/i386/main.o
+t1374239881
+s3420
+
+N/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/PrecompiledHeaders/JsonTutorial-Prefix-goxvzdzwtmvcvjedbeoplxfyyczt/JsonTutorial-Prefix.pch.pth
+t1374239881
+s4678892
+
+N/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app
+t1374239882
+s306
+
+N/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app.dSYM
+t1374239882
+s102
+
+N/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app/Default-568h@2x.png
+t1374239882
+s18594
+
+N/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app/Default.png
+t1374239882
+s6540
+
+N/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app/Default@2x.png
+t1374239882
+s16107
+
+N/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app/Info.plist
+t1374239881
+s848
+
+N/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app/JsonTutorial
+t1374239882
+s33280
+
+N/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app/PkgInfo
+t1374239881
+s8
+
+N/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app/customCell.nib
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app/en.lproj/InfoPlist.strings
+t1374239882
+s42
+
+N/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app/en.lproj/MainStoryboard.storyboardc
+t1374239882
+s170
+
+N/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/AppDelegate.h
+c0000000050A89F46000000000000010B
+t1353228102
+s267
+
+N/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/AppDelegate.m
+c0000000050A89F4600000000000007CD
+t1353228102
+s1997
+
+N/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/Coupon.m
+c0000000051EABD5000000000000002AE
+t1374338384
+s686
+
+N/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/Default-568h@2x.png
+c0000000050A89F4600000000000048A2
+t1353228102
+s18594
+
+N/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/Default.png
+c0000000050A89F46000000000000198C
+t1353228102
+s6540
+
+N/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/Default@2x.png
+c0000000050A89F460000000000003EEB
+t1353228102
+s16107
+
+N/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/JsonTutorial-Prefix.pch
+c0000000050A89F460000000000000147
+t1353228102
+s327
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/Status.m
+c000000005026389400000000000001FF
+t1344682132
+s511
+
+N/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/ViewController.h
+c0000000051EAB94400000000000001B4
+t1374337348
+s436
+
+N/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/ViewController.m
+c0000000051EABD500000000000000F16
+t1374338384
+s3862
+
+N/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/customCell.m
+c0000000051EA9097000000000000033F
+t1374326935
+s831
+
+N/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/customCell.xib
+c0000000051EA90460000000000003874
+t1374326854
+s14452
+
+N/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/en.lproj/InfoPlist.strings
+c0000000050A89F46000000000000002D
+t1353228102
+s45
+
+N/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/en.lproj/MainStoryboard.storyboard
+c0000000051EAB8E00000000000001810
+t1374337248
+s6160
+
+N/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/main.m
+c0000000050A89F460000000000000146
+t1353228102
+s326
+
+NJsonTutorial/JsonTutorial-Info.plist
+c0000000050A89F4600000000000004CA
+t1353228102
+s1226
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/AppDelegate.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/Coupon.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/Status.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/ViewController.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/customCell.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies1ff507d1f49ab741^6edf17d1f49ab741^---0#1#0#--18"Check dependencies36"C815B0B5-F1B3-461C-B61D-3DB8E25EA9C9-
+
+CCompileC DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/Objects-normal/i386/AppDelegate.o /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395932681.851743
+e395932681.977864
+r1
+xCompileC
+xDerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/Objects-normal/i386/AppDelegate.o
+x/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Compile /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/AppDelegate.m2942da097499b741^5054fa097499b741^---0#0#0#-19%DVTDocumentLocation2@124"file://localhost/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/AppDelegate.m0000000000000000^4651"CompileC DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/Objects-normal/i386/AppDelegate.o JsonTutorial/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/JsonTutorial-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/JsonTutorial-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/JsonTutorial-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/JsonTutorial-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/DerivedSources/i386 -I/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator -include /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/PrecompiledHeaders/JsonTutorial-Prefix-goxvzdzwtmvcvjedbeoplxfyyczt/JsonTutorial-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/Objects-normal/i386/AppDelegate.dia -c /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/AppDelegate.m -o /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/Objects-normal/i386/AppDelegate.o36"37BBDF6D-B4E3-4FE2-A354-CCCB2D605384-
+
+CCompileC DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/Objects-normal/i386/Coupon.o /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/Coupon.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s396031185.125281
+e396031185.566235
+r1
+xCompileC
+xDerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/Objects-normal/i386/Coupon.o
+x/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/Coupon.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Compile /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/Coupon.m724e20d1f49ab741^88f390d1f49ab741^---0#0#0#-19%DVTDocumentLocation2@119"file://localhost/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/Coupon.m0000000000000000^4621"CompileC DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/Objects-normal/i386/Coupon.o JsonTutorial/Coupon.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/JsonTutorial-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/JsonTutorial-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/JsonTutorial-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/JsonTutorial-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/DerivedSources/i386 -I/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator -include /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/PrecompiledHeaders/JsonTutorial-Prefix-goxvzdzwtmvcvjedbeoplxfyyczt/JsonTutorial-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/Objects-normal/i386/Coupon.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/Objects-normal/i386/Coupon.dia -c /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/Coupon.m -o /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/Objects-normal/i386/Coupon.o36"9C1A8847-666B-4499-A93E-A11B5981D315-
+
+CCompileC DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/Objects-normal/i386/Status.o /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/Status.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/Objects-normal/i386/ViewController.o /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s396031185.114961
+e396031185.581882
+r1
+xCompileC
+xDerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/Objects-normal/i386/ViewController.o
+x/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Compile /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/ViewController.m263421d1f49ab741^4df594d1f49ab741^---0#0#0#-19%DVTDocumentLocation2@127"file://localhost/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/ViewController.m0000000000000000^4669"CompileC DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/Objects-normal/i386/ViewController.o JsonTutorial/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/JsonTutorial-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/JsonTutorial-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/JsonTutorial-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/JsonTutorial-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/DerivedSources/i386 -I/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator -include /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/PrecompiledHeaders/JsonTutorial-Prefix-goxvzdzwtmvcvjedbeoplxfyyczt/JsonTutorial-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/Objects-normal/i386/ViewController.dia -c /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/ViewController.m -o /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/Objects-normal/i386/ViewController.o36"858FA73E-885F-4B20-BCC6-50DA02872AD7-
+
+CCompileC DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/Objects-normal/i386/customCell.o /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/customCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s396031185.127241
+e396031185.575365
+r1
+xCompileC
+xDerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/Objects-normal/i386/customCell.o
+x/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/customCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Compile /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/customCell.m60ca20d1f49ab741^024a93d1f49ab741^---0#0#0#-19%DVTDocumentLocation2@123"file://localhost/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/customCell.m0000000000000000^4645"CompileC DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/Objects-normal/i386/customCell.o JsonTutorial/customCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/JsonTutorial-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/JsonTutorial-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/JsonTutorial-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/JsonTutorial-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/DerivedSources/i386 -I/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator -include /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/PrecompiledHeaders/JsonTutorial-Prefix-goxvzdzwtmvcvjedbeoplxfyyczt/JsonTutorial-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/Objects-normal/i386/customCell.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/Objects-normal/i386/customCell.dia -c /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/customCell.m -o /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/Objects-normal/i386/customCell.o36"0D444F30-08E6-41AB-A201-29370B650495-
+
+CCompileC DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/Objects-normal/i386/main.o /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395932681.851698
+e395932681.910088
+r1
+xCompileC
+xDerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/Objects-normal/i386/main.o
+x/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Compile /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/main.m8060da097499b741^e542e9097499b741^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/main.m0000000000000000^4609"CompileC DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/Objects-normal/i386/main.o JsonTutorial/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/JsonTutorial-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/JsonTutorial-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/JsonTutorial-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/JsonTutorial-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/DerivedSources/i386 -I/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator -include /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/PrecompiledHeaders/JsonTutorial-Prefix-goxvzdzwtmvcvjedbeoplxfyyczt/JsonTutorial-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/Objects-normal/i386/main.dia -c /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/main.m -o /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/Objects-normal/i386/main.o36"DDF37417-D5AF-4B7C-8F6E-288CDFD67569-
+
+CCompileStoryboard /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/en.lproj/MainStoryboard.storyboard
+s396031185.890457
+e396031189.697927
+r1
+xCompileStoryboard
+x/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/en.lproj/MainStoryboard.storyboard
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"CompileStoryboard JsonTutorial/en.lproj/MainStoryboard.storyboard670fe4d1f49ab741^69abb2d5f49ab741^---0#0#0#-19%DVTDocumentLocation2@145"file://localhost/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/en.lproj/MainStoryboard.storyboard0000000000000000^1122"CompileStoryboard JsonTutorial/en.lproj/MainStoryboard.storyboard    cd /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app/en.lproj/MainStoryboard.storyboardc /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/en.lproj/MainStoryboard.storyboard --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk36"0F7A5C36-F648-47BD-AA52-7387252EF0D0-
+
+CCompileXIB /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/customCell.xib
+s396031185.890446
+e396031189.554318
+r1
+xCompileXIB
+x/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/customCell.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Compiling /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/customCell.xib450fe4d1f49ab741^f1f18dd5f49ab741^---0#0#0#-19%DVTDocumentLocation2@125"file://localhost/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/customCell.xib0000000000000000^1053"CompileXIB JsonTutorial/customCell.xib    cd /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app/customCell.nib /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/customCell.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk36"58B95542-C73F-45BC-B577-D40BA6CF72D3-
+
+CCopyStringsFile /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app/en.lproj/InfoPlist.strings JsonTutorial/en.lproj/InfoPlist.strings
+s395932682.087734
+e395932682.091996
+r1
+xCopyStringsFile
+x/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app/en.lproj/InfoPlist.strings
+xJsonTutorial/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Copy JsonTutorial/en.lproj/InfoPlist.strings8faa160a7499b741^6d8e170a7499b741^---0#0#0#-19%DVTDocumentLocation2@137"file://localhost/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/en.lproj/InfoPlist.strings0000000000000000^749"CopyStringsFile DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app/en.lproj/InfoPlist.strings JsonTutorial/en.lproj/InfoPlist.strings    cd /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app/en.lproj -- JsonTutorial/en.lproj/InfoPlist.strings36"4CBC3831-65A1-4171-921C-4A0D357A3CAF-
+
+CCpResource JsonTutorial/Default-568h@2x.png DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app/Default-568h@2x.png
+s395932682.087939
+e395932682.093512
+r1
+xCpResource
+xJsonTutorial/Default-568h@2x.png
+xDerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Copy DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app/Default-568h@2x.png21b0160a7499b741^30f1170a7499b741^---0#0#0#-19%DVTDocumentLocation2@196"file://localhost/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app/Default-568h@2x.png000000000080d041^821"CpResource "JsonTutorial/Default-568h@2x.png" "DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app/Default-568h@2x.png"    cd /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/Default-568h@2x.png" /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app36"3CDA2E86-2887-4940-8B69-8E60CC033719-
+
+CCpResource JsonTutorial/Default.png DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app/Default.png
+s395932682.087748
+e395932682.095270
+r1
+xCpResource
+xJsonTutorial/Default.png
+xDerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Copy DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app/Default.pngf8a9160a7499b741^d063180a7499b741^---0#0#0#-19%DVTDocumentLocation2@188"file://localhost/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app/Default.png000000000080d041^791"CpResource JsonTutorial/Default.png DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app/Default.png    cd /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/Default.png /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app36"DE4CCB58-6EC2-4905-95CE-E1142C520FEE-
+
+CCpResource JsonTutorial/Default@2x.png DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app/Default@2x.png
+s395932682.087717
+e395932682.094530
+r1
+xCpResource
+xJsonTutorial/Default@2x.png
+xDerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Copy DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app/Default@2x.png93a9160a7499b741^9832180a7499b741^---0#0#0#-19%DVTDocumentLocation2@191"file://localhost/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app/Default@2x.png000000000080d041^806"CpResource "JsonTutorial/Default@2x.png" "DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app/Default@2x.png"    cd /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/Default@2x.png" /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app36"8593F16D-DD11-4B3B-A955-381857A852BF-
+
+CGenerateDSYMFile /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app.dSYM /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app/JsonTutorial
+s396031185.802309
+e396031185.880695
+r1
+xGenerateDSYMFile
+x/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app.dSYM
+x/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app/JsonTutorial
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection174"Generate /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app.dSYM187dcdd1f49ab741^6074e1d1f49ab741^---0#0#0#-19%DVTDocumentLocation2@182"file://localhost/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app.dSYM/0000000000000000^920"GenerateDSYMFile DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app.dSYM DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app/JsonTutorial    cd /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app/JsonTutorial -o /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app.dSYM36"D0F42F7E-5FF4-42CF-80CD-50A6FA08E0B7-
+
+CLd /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app/JsonTutorial normal i386
+s396031185.588522
+e396031185.795824
+r1
+xLd
+x/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app/JsonTutorial
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection178"Link /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app/JsonTutorial2dd096d1f49ab741^f9bbcbd1f49ab741^---0#0#0#--1572"Ld DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app/JsonTutorial normal i386    cd /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master    setenv IPHONEOS_DEPLOYMENT_TARGET 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -L/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator -F/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator -filelist /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/Objects-normal/i386/JsonTutorial.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.0 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app/JsonTutorial36"F91AADAD-63DE-4A78-AE67-73BCD3DAB4EF-
+
+CProcessInfoPlistFile /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app/Info.plist JsonTutorial/JsonTutorial-Info.plist
+s395932681.447470
+e395932681.466745
+r1
+xProcessInfoPlistFile
+x/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app/Info.plist
+xJsonTutorial/JsonTutorial-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Process JsonTutorial/JsonTutorial-Info.plist096f73097499b741^9c8b77097499b741^---0#0#0#-19%DVTDocumentLocation2@134"file://localhost/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/JsonTutorial-Info.plist0000000000000000^916"ProcessInfoPlistFile DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app/Info.plist JsonTutorial/JsonTutorial-Info.plist    cd /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility JsonTutorial/JsonTutorial-Info.plist -genpkginfo /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app/Info.plist36"6D8E4858-D24A-460F-8FA3-C6CEEAE8385E-
+
+CProcessPCH /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/PrecompiledHeaders/JsonTutorial-Prefix-goxvzdzwtmvcvjedbeoplxfyyczt/JsonTutorial-Prefix.pch.pth JsonTutorial/JsonTutorial-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395932681.474813
+e395932681.844930
+r1
+xProcessPCH
+x/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/PrecompiledHeaders/JsonTutorial-Prefix-goxvzdzwtmvcvjedbeoplxfyyczt/JsonTutorial-Prefix.pch.pth
+xJsonTutorial/JsonTutorial-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precompile JsonTutorial/JsonTutorial-Prefix.pchc4b279097499b741^6f2bdd097499b741^---0#0#0#-19%DVTDocumentLocation2@134"file://localhost/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/JsonTutorial-Prefix.pch0000000000000000^4456"ProcessPCH DerivedData/JsonTutorial/Build/Intermediates/PrecompiledHeaders/JsonTutorial-Prefix-goxvzdzwtmvcvjedbeoplxfyyczt/JsonTutorial-Prefix.pch.pth JsonTutorial/JsonTutorial-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/JsonTutorial-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/JsonTutorial-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/JsonTutorial-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/JsonTutorial-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/DerivedSources/i386 -I/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/JsonTutorial.build/Debug-iphonesimulator/JsonTutorial.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/PrecompiledHeaders/JsonTutorial-Prefix-goxvzdzwtmvcvjedbeoplxfyyczt/JsonTutorial-Prefix.pch.dia -c /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/JsonTutorial/JsonTutorial-Prefix.pch -o /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/PrecompiledHeaders/JsonTutorial-Prefix-goxvzdzwtmvcvjedbeoplxfyyczt/JsonTutorial-Prefix.pch.pth -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Intermediates/PrecompiledHeaders/JsonTutorial-Prefix-goxvzdzwtmvcvjedbeoplxfyyczt/JsonTutorial-Prefix.pch.d36"A81FA16E-7A60-485D-812B-1D168BB25727-
+
+CProcessPCH /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Index/PrecompiledHeaders/JsonTutorial-Prefix-etmarvxcuhwocmagaioblgrceedb_ast/JsonTutorial-Prefix.pch.pth JsonTutorial/JsonTutorial-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app
+s396031189.706079
+e396031189.718024
+r1
+xTouch
+x/Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection166"Touch /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app54e0b4d5f49ab741^4ad0b7d5f49ab741^---0#0#0#--552"Touch DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app    cd /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/newsuzukihiromasa/Desktop/json/iphone-xcode-objective-c-json-render-master/DerivedData/JsonTutorial/Build/Products/Debug-iphonesimulator/JsonTutorial.app36"9824CF71-F1D1-4E6D-8961-F72CC14A45DC-
+
